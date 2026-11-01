@@ -4,6 +4,8 @@ A lightweight Python library for Pokémon lookups, random Pokémon, type data,
 and generation lists. It uses the public [PokéAPI](https://pokeapi.co/) and
 has no third-party runtime dependencies.
 
+UNRELATED WITH [ARNAVB'S PYPOKEDEX](https://github.com/arnavb/pypokedex)
+
 ## Install
 
 From this folder:
