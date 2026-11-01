@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+pypokedex/__init__.py
+pypokedex/client.py
+pypokedex.egg-info/PKG-INFO
+pypokedex.egg-info/SOURCES.txt
+pypokedex.egg-info/dependency_links.txt
+pypokedex.egg-info/top_level.txt
+tests/test_helpers.py
